@@ -1,0 +1,12 @@
+E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedSession\bin\Release\netcoreapp2.1\win-x64\DistributedRedis.exe
+E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedSession\bin\Release\netcoreapp2.1\win-x64\DistributedRedis.deps.json
+E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedSession\bin\Release\netcoreapp2.1\win-x64\DistributedRedis.runtimeconfig.json
+E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedSession\bin\Release\netcoreapp2.1\win-x64\DistributedRedis.runtimeconfig.dev.json
+E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedSession\bin\Release\netcoreapp2.1\win-x64\DistributedRedis.dll
+E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedSession\bin\Release\netcoreapp2.1\win-x64\DistributedRedis.pdb
+E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedSession\obj\Release\netcoreapp2.1\win-x64\DistributedRedis.csprojAssemblyReference.cache
+E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedSession\obj\Release\netcoreapp2.1\win-x64\DistributedRedis.csproj.CoreCompileInputs.cache
+E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedSession\obj\Release\netcoreapp2.1\win-x64\DistributedRedis.AssemblyInfoInputs.cache
+E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedSession\obj\Release\netcoreapp2.1\win-x64\DistributedRedis.AssemblyInfo.cs
+E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedSession\obj\Release\netcoreapp2.1\win-x64\DistributedRedis.dll
+E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedSession\obj\Release\netcoreapp2.1\win-x64\DistributedRedis.pdb

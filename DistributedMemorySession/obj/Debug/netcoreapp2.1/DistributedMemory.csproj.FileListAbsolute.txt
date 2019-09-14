@@ -1,0 +1,11 @@
+E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedMemorySession\bin\Debug\netcoreapp2.1\DistributedMemory.deps.json
+E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedMemorySession\bin\Debug\netcoreapp2.1\DistributedMemory.runtimeconfig.json
+E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedMemorySession\bin\Debug\netcoreapp2.1\DistributedMemory.runtimeconfig.dev.json
+E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedMemorySession\bin\Debug\netcoreapp2.1\DistributedMemory.dll
+E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedMemorySession\bin\Debug\netcoreapp2.1\DistributedMemory.pdb
+E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedMemorySession\obj\Debug\netcoreapp2.1\DistributedMemory.csprojAssemblyReference.cache
+E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedMemorySession\obj\Debug\netcoreapp2.1\DistributedMemory.csproj.CoreCompileInputs.cache
+E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedMemorySession\obj\Debug\netcoreapp2.1\DistributedMemory.AssemblyInfoInputs.cache
+E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedMemorySession\obj\Debug\netcoreapp2.1\DistributedMemory.AssemblyInfo.cs
+E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedMemorySession\obj\Debug\netcoreapp2.1\DistributedMemory.dll
+E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedMemorySession\obj\Debug\netcoreapp2.1\DistributedMemory.pdb

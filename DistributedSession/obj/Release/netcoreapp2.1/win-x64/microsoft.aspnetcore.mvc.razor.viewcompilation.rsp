@@ -1,0 +1,11 @@
+E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedSession
+--output-path=obj\Release\netcoreapp2.1\win-x64\
+--application-name=DistributedRedis
+--content-root=E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedSession
+--file=E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedSession\Views\Home\Index.cshtml
+--file=E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedSession\Views\Shared\Error.cshtml
+--file=E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedSession\Views\Shared\_CookieConsentPartial.cshtml
+--file=E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedSession\Views\Shared\_Layout.cshtml
+--file=E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedSession\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedSession\Views\_ViewImports.cshtml
+--file=E:\dotnet project\samll-project\samll-project\DistributedSession\DistributedSession\Views\_ViewStart.cshtml
